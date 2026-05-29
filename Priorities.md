@@ -1,11 +1,15 @@
-Date updated: [date]
-- a running list of tasks, put as much detail here as needed, and put in order of importance
-- this should include ALL work tasks list 
-
-*Example:*
-- *Oyster shell weighing - 60 oysters*  
-- *DNA extractions - 8 samples/wk*
-- *[[Coralnet]] - 180 photos* 
-- *Weekly lab tasks:* 
-	- *Autoclave*
-	- *Oyster husbandry* 
+Date updated: 27th May
+- [x] DNA lab extractions with Branae on Thursday at 10am
+- [x]  Read material on coral ID and make notes
+- [x] Edit and format notes for coral reef identification notes
+- [x] Update lab notebook 
+- [x] Read "mound and boulder corals" from google drive and make notes
+- [ ] Send lab notebook to nikea
+- [x]  Read "flower corals" from google drive and make notes
+- [x]  Read "mound and boulder corals" from google drive and make notes
+- [x] Read "Coral Notes - PSTR vs DLAB vs CNAT" from google drive and make notes
+- [x] Read "protocols on assessing coral health"
+- [x] Finish notes on "protocols for assessing coral health"
+- [x] Add images for the health statues in notes for "protocols for assessing coral health"
+- [x] Sterilise equipment for DNA extraction tomorrow 
+- [x] Update lab notebook and prepare for DNA extraction on 28/5

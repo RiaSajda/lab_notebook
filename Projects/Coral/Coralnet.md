@@ -5,7 +5,6 @@ Protocol and Important Links
 ### General Notes
 - *ID notes: 
 	- *TF more fuzzy, macro leafy*
+ 
 
 ### Questions
-#### [Date]
-- [link to coralnet photo] is point 10 AAGA or ATEN?
