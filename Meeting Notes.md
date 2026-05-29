@@ -6,5 +6,5 @@
 
 # 29th May
 - Getting labnotebook to nikea
-	- adding as collaborator and practice submitting a pull request to go over meeting agenda
-- Make plan for next week
+	- adding as collaborator and practice submitting a pull request to go over meeting agenda _great! we are doing this!_
+- Make plan for next week _yes! Starting on photo re-labelling and another round or 2 of extractions_
