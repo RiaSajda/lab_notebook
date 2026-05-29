@@ -6,4 +6,5 @@
 
 # 29th May
 - Getting labnotebook to nikea
+	- adding as collaborator and practice submitting a pull request to go over meeting agenda
 - Make plan for next week
