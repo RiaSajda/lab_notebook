@@ -1,4 +1,4 @@
-# LabNotebook-Template
+# LabNotebook
 
 - Ria Sajda Lab Notebook in Gignoux-Wolfsohn lab at University of Massachusetts Lowell 
 - Started May 2026
@@ -20,15 +20,20 @@
 - Running list of tasks/priorities
 [[Daily Notes]]
 - Daily to do list/goals
+Coral ID Notes
+[[Coral Reef Identification]]
+[[Flower Corals]]
+[[Important Coral Species]]
+[[Mound and Boulder Corals]]
+
 
 ### Projects
-- *This section is adjustable. Discuss with mentor about how best to organize project notes*
+
 #### Coral
-- [[Coralnet]]
-#### Oyster
-- [[Shell Weighing]]
+- [[Photo Relabelling]]
+- [[CoralNet]]
 #### Molecular
-- *example - it might make sense for molecular to be its own category or can put subcategory in coral or oyster*
+- [[DNA Extractions - Training]]
 - [[DNA Extractions]]
 
 

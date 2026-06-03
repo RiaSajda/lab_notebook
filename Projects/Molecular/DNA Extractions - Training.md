@@ -79,3 +79,22 @@ UV Sterilize
 	- 1 x # of samples in HiBind column plus collector tube --> 4
 
 Incubate 75µL x # of samples of elution buffer -- >300µL
+# 28th May
+## Samples
+-  coral samples and  negatives
+- From Omega Bio-tek box, opened 02/25
+
+| Sample   | Species | Year    | Starting_Weight | Date_Extracted | Raw_ng_ul     | Extracted_Location | Notes          |
+| -------- | ------- | ------- | --------------- | -------------- | ------------- | ------------------ | -------------- |
+|          |         |         |                 | 04/6/2026      |               |                    |                |
+|          |         |         |                 | 04/6/2026      |               |                    |                |
+| Negative | ------  | ------- | ---------       | 28/5/2026      | Range too low |                    | no coral added |
+| Negative | ------  | ------- | ---------       | 28/5/2026      | Range too low |                    | no coral added |
+## Notes
+UV Sterilize 
+	- 2 x # of samples in 1.5 mL Lo-Bind Eppendorf tubes --> 
+	- 1 x # of samples in 2 mL cryovials (or 2 x 1.5 mL Eppendorf tubes) --> 
+	- 1 x # of samples in Disruptor tubes --> 
+	- 1 x # of samples in HiBind column plus collector tube --> 
+
+Incubate 75µL x # of samples of elution buffer -- > µL

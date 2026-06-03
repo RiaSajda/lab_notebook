@@ -85,5 +85,59 @@
 
 # 28th May
 ## Daily To Do List
-- [ ] Conduct DNA extraction (2 coral samples + 2 negatives)
-- [ ] Qubit samples (4 samples + 2 standards)
+- [x] Conduct DNA extraction (2 coral samples + 2 negatives)
+- [x] Qubit samples (4 samples + 2 standards)
+
+# 29th May
+
+## Daily To Do List
+- [x] Label 20 coral sample images
+    Make list of corals found in photos
+- [x] Read protocol on SCTLD google drive
+- [x] Look at spreadsheet of coral names, tags and location
+- [x] Look at map of coral samples
+- [x] Revise coral id notes
+
+# 1st June
+
+## Daily To Do List
+- [x] Finish El Ardor labelling coral sample images 
+    Make list of corals found in photos
+- [x] Label 10 El Arbol site colonies from post-probiotic treatment folder  
+    Make list of corals found in photos
+- [x] Label 20 images from Rocosa 
+    Make list of corals found in photos
+## Notes:
+- [x] Ask Tristin about El Arbol images
+   - COL_SAN_T5_DLAB_86_032026
+   - ElArbol_032026_05140247.JPG 
+    Talked it over with Nikea
+- [x]  Confirm initials for data sheet  for El Arbol
+    Talked it over with Nikea
+- [x]  Ask Tristin about Rocosa images
+   - What to do with images, corals and label/tags are not easily identifiable 
+    Talked it over with Nikea
+# 2nd June
+## Daily To Do List
+- [x] Label  El Arbol site colonies from post-probiotic treatment folder  
+    Make list of corals found in photos
+- [x] Label 20 photos from Rocosa site (pre treatment)
+      Make list of corals or miscellaneous photos labeled 
+
+# 3rd June
+## Daily To Do List
+- [x] Finish labelling photos from Rocosa site (pre treatment)
+      Make list of corals or miscellaneous photos labeled 
+- [x] Label all photos from Rocosa site (post treatment)
+      Make list of corals or miscellaneous photos labeled 
+## Notes:
+- [ ] Need to double check with Nikea :
+  - COL_SAN_T3_MCAV_100_032026_5 could be miscellaneous photo
+  - Tag for COL_SAN_T3_MCAV_92_032026_7
+  - COL_SAN_T3_05100018 could be COL_SAN_T3_DLAB_34_032026_8
+  - Sample 003 isnt on the spreadsheet but images of it are in the folder, labelled as COL_SAN_T3_ORBI_3_032026_1 - COL_SAN_T3_ORBI_3_032026_5
+  - COL_SAN_T3_OANN_4_032026_6 could be miscellaneous 
+  - COL_SAN_T3_P3120071 could be COL_SAN_T3_OFAV_9_032026_5, coral isnt visible but I think the balloon tagger belong to OFAV_9
+- COL_SAN_T3_P3120084.JPG could be COL_SAN_T3_OFAV_11_032026_6, coral isnt visible but I think the balloon tagger belong to OFAV_11
+- COL_SAN_T3_P3120105 doesn't have a specific coral tag shown, so its cureently labelled according to miscellaneous protocol 
+- OFAV_17 was recorded as a sample post treatment but there are no images of it pre treatment
