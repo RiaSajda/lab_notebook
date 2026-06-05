@@ -130,6 +130,7 @@
       Make list of corals or miscellaneous photos labeled 
 - [x] Label all photos from Rocosa site (post treatment)
       Make list of corals or miscellaneous photos labeled 
+- [x] Set up lab notebook for extraction and qubit tomorrow
 ## Notes:
 - [ ] Need to double check with Nikea :
   - COL_SAN_T3_MCAV_100_032026_5 could be miscellaneous photo
@@ -141,3 +142,20 @@
 - COL_SAN_T3_P3120084.JPG could be COL_SAN_T3_OFAV_11_032026_6, coral isnt visible but I think the balloon tagger belong to OFAV_11
 - COL_SAN_T3_P3120105 doesn't have a specific coral tag shown, so its cureently labelled according to miscellaneous protocol 
 - OFAV_17 was recorded as a sample post treatment but there are no images of it pre treatment
+
+# 4th June
+## Daily To Do List:
+- [x] DNA extraction on 3 samples and 1 negatives
+- [x] Qubit the 4 samples  and 2 standards
+- [x] Update lab notebook with Qubit results and side notes from extraction
+- [x] Label 5 photos from Nirvana site (pre treatment)
+      Make list of corals or miscellaneous photos labeled 
+
+## Notes:
+- Ended up doing 5 coral samples, 1 negative and 2 standards 
+  - One of the original samples had issues post inhibitor removal and was split into 2 samples
+
+# 5th June
+## Daily To Do List:
+- [ ]  Finish labelling photos from Nirvana site (pre treatment)
+      Make list of corals or miscellaneous photos labeled 

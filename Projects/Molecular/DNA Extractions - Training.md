@@ -81,20 +81,40 @@ UV Sterilize
 Incubate 75µL x # of samples of elution buffer -- >300µL
 # 28th May
 ## Samples
--  coral samples and  negatives
-- From Omega Bio-tek box, opened 02/25
+- 3 coral samples and 1 negative
+- From Omega Bio-tek box, opened 06/26
 
-| Sample   | Species | Year    | Starting_Weight | Date_Extracted | Raw_ng_ul     | Extracted_Location | Notes          |
-| -------- | ------- | ------- | --------------- | -------------- | ------------- | ------------------ | -------------- |
-|          |         |         |                 | 04/6/2026      |               |                    |                |
-|          |         |         |                 | 04/6/2026      |               |                    |                |
-| Negative | ------  | ------- | ---------       | 28/5/2026      | Range too low |                    | no coral added |
-| Negative | ------  | ------- | ---------       | 28/5/2026      | Range too low |                    | no coral added |
+| Sample                             | Species | Year   | Starting_Weight | Date_Extracted | Raw_ng_ul     | Extracted_Location          | Notes                                        |
+| ---------------------------------- | ------- | ------ | --------------- | -------------- | ------------- | --------------------------- | -------------------------------------------- |
+| 102025_COL_SAN_Protran1_571_a_PSTR | PSTR    | 2025   | 0.1378          | 04/6/2026      | 0.304         | Top shelf of penguin fridge | Used 200µL of solution                       |
+| 02025_COL_SAN_Protran1_571_b_PSTR  | PSTR    | 2025   | -------         | 04/6/2026      | range too low | Top shelf of penguin fridge | --------                                     |
+| 102025_COL_SAN_Protran1_572_PSTR   | PSTR    | 2025   | 0.4068          | 04/6/2026      | 2.78          | Top shelf of penguin fridge | Used 300µL of solution                       |
+| 102025_COL_SAN_Protran1_573_PSTR   | PSTR    | 2025   | 0.0905          | 04/6/2026      | 0.544         | Top shelf of penguin fridge | Had mostly tissue content, 100µL of solution |
+| Negative                           | ------  | ------ | ---------       | 04/6/2026      | range too low | Top shelf of penguin fridge | no coral added                               |
 ## Notes
 UV Sterilize 
-	- 2 x # of samples in 1.5 mL Lo-Bind Eppendorf tubes --> 
-	- 1 x # of samples in 2 mL cryovials (or 2 x 1.5 mL Eppendorf tubes) --> 
-	- 1 x # of samples in Disruptor tubes --> 
-	- 1 x # of samples in HiBind column plus collector tube --> 
+	- 2 x # of samples in 1.5 mL Lo-Bind Eppendorf tubes --> 8
+	- 1 x # of samples in 2 mL cryovials --> 4
+	- 1 x # of samples in Disruptor tubes --> 4
+	- 1 x # of samples in HiBind column plus collector tube --> 4
+	-  1.5 mL Eppendorf tubes (Elution buffer and working solution) --> 2
 
-Incubate 75µL x # of samples of elution buffer -- > µL
+Qubit tubes --> 6
+Incubate 75µL x # of samples of elution buffer -- > 300 µL
+
+- Sample 102025_COL_SAN_Protran1_571_PSTR formed 2 layers after inhibitor removal steps, there was a cloudy layer separating  the liquid. Pellet was also slightly disfigured. Sample was then split into 2, 102025_COL_SAN_Protran1_571_a_PSTR and 102025_COL_SAN_Protran1_571_b_PSTR
+  - Sample 102025_COL_SAN_Protran1_571_a_PSTR was the liquid above the layer, which yielded DNA after Qubit
+  - Sample 102025_COL_SAN_Protran1_571_b_PSTR was the liquid below the layer, for which the DNA range was too low after Qubit, implying lack of DNA presence in the sample 
+
+# 10th July
+
+## Samples
+- 3 coral samples and 1 negative
+- From Omega Bio-tek box, opened 06/26
+
+| Sample | Species | Year | Starting_Weight | Date_Extracted | Raw_ng_ul | Extracted_Location | Notes |
+| ------ | ------- | ---- | --------------- | -------------- | --------- | ------------------ | ----- |
+|        |         |      |                 |                |           |                    |       |
+|        |         |      |                 |                |           |                    |       |
+|        |         |      |                 |                |           |                    |       |
+|        |         |      |                 |                |           |                    |       |
