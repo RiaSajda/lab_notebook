@@ -31,7 +31,6 @@ Coral ID Notes
 
 #### Coral
 - [[Photo Relabelling]]
-- [[CoralNet]]
 #### Molecular
 - [[DNA Extractions - Training]]
 - [[DNA Extractions]]

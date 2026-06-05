@@ -40,3 +40,5 @@ Need to double check:
 - Label 062024 coral photos
   - Check in with Nikea before starting
 - Final training extraction on 06/10
+- Get added to SAN_CORDAP repo 
+  - Update spreadsheet based on coral extraction results
