@@ -1,10 +1,10 @@
-Date updated: 27th May
+Date updated: 5th June
 - [x] DNA lab extractions with Branae on Thursday at 10am
 - [x]  Read material on coral ID and make notes
 - [x] Edit and format notes for coral reef identification notes
 - [x] Update lab notebook 
 - [x] Read "mound and boulder corals" from google drive and make notes
-- [ ] Send lab notebook to nikea
+- [x] Send lab notebook to nikea
 - [x]  Read "flower corals" from google drive and make notes
 - [x]  Read "mound and boulder corals" from google drive and make notes
 - [x] Read "Coral Notes - PSTR vs DLAB vs CNAT" from google drive and make notes
@@ -13,3 +13,19 @@ Date updated: 27th May
 - [x] Add images for the health statues in notes for "protocols for assessing coral health"
 - [x] Sterilise equipment for DNA extraction tomorrow 
 - [x] Update lab notebook and prepare for DNA extraction on 28/5
+- [x] Trial extraction on Thursday(4/6) at 10
+      Brandon will be shadowing during extraction and Qubit
+- [ ] Label coral sample images from Columbia  
+    Make list of corals found in photos
+    - [x] El_Arbol_T5 --> pre-probiotic
+    - [x] El_Arbol_T5 --> post-probiotic
+    - [x] Rocosa_T3--> pre-probiotic
+    - [x]  Rocosa_T3--> post-probiotic
+    - [ ] Nirvana_T1--> pre-probiotic
+    - [ ] Nirvana_T1--> post-probiotic
+- [ ] Make folder of probiotic related images from Year 3 sites
+- [ ] Put corals into species folder after labelling 
+- [x] Read protocol on SCTLD google drive
+- [x] Look at spreadsheet of coral names, tags and location
+- [x] Look at map of coral samples
+- [x] Revise coral id notes
