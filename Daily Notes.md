@@ -157,5 +157,44 @@
 
 # 5th June
 ## Daily To Do List:
-- [ ]  Finish labelling photos from Nirvana site (pre treatment)
+- [x]  Finish labelling photos from Nirvana site (pre treatment)
       Make list of corals or miscellaneous photos labeled 
+## Notes:
+There is a note in the Columbia lab notebook stating tag was pulled out from OANN_3 in Rocosa but samples spreadsheet shows collection from the coral along with images in the folder
+- OFAV_17 found in colony data and no previous photos but images and samples were taken in 032026 and one of the divers (FMA)is sure about the tag and coral identity
+- MCAV_69 from Nirvana_T1 isn't correctly identified in 032026 on the basis of previous images from 012025 and 032024
+
+# 8th June
+## Daily To Do List:
+- [x]   Label 70 (types) photos from Plaza De Toros site (pre treatment)
+      Make list of corals or miscellaneous photos labeled 
+
+# 9th June
+## Daily To Do List:
+- [x]  Label COL_SAN_T4_05110144 as COL_SAN_T4_OANN_42_032026  
+- [x] Check Rocosa for tags 27, 28, 95, 93, 94
+- [x]  Finish labelling photos from Plaza De Toros site (pre treatment)
+       Make list of corals or miscellaneous photos labeled 
+- [x] Label photos from Plaza De Toros site (post treatment)
+      Make list of corals or miscellaneous photos labeled 
+- [x] Label photos from Punta Padi site 
+      Make list of corals or miscellaneous photos labeled 
+
+## Notes: 
+- Images of corals DLAB_27, DLAB_28, MCAV_93, MCAV_94 and MCAV_95 from Rocosa were in Plaza De Toros folder
+- Images for COL_SAN_T4_OFAV_28_032026 were taken twice at 2 different time points based on original image numbers
+- Images for COL_SAN_T4_OFRA_29_032026 were taken twice at 2 different time points based on original image numbers
+-  05170360 is blank, it was between COL_SAN_T2_MCAV_40_032026_11 and COL_SAN_T2_DLAB_90_032026_1 
+- Images for COL_SAN_T2_MCAV_40_032026 were taken twice at 2 different time points based on original image numbers
+- Images of OFAV_3, OFAV_51, OFAV_52, OFAV_57 and MCAV_46 are missing but samples were taken of those coral according to spreadsheets
+- Samples spreadsheet shows repeat of sample DLAB_93
+
+# 10th June
+## Daily To Do List:
+- [x] DNA extraction for 3 samples and 1 negative
+- [x] Qubit samples and 2 standards
+
+## Notes:
+- 012025_COL_SAN_T3_374_CNAT was a very large sample with a lot of tissue
+- 012025_COL_SAN_T3_375_OFAV was a small sample but had a decent amount of tissue
+- 012025_COL_SAN_T3_376_OFAV was a white/translucent sample and very small, not much tissue

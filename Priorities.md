@@ -1,4 +1,4 @@
-Date updated: 5th June
+Date updated: 11th June
 - [x] DNA lab extractions with Branae on Thursday at 10am
 - [x]  Read material on coral ID and make notes
 - [x] Edit and format notes for coral reef identification notes
@@ -15,17 +15,20 @@ Date updated: 5th June
 - [x] Update lab notebook and prepare for DNA extraction on 28/5
 - [x] Trial extraction on Thursday(4/6) at 10
       Brandon will be shadowing during extraction and Qubit
-- [ ] Label coral sample images from Columbia  
+- [x] Label coral sample images from Columbia  
     Make list of corals found in photos
     - [x] El_Arbol_T5 --> pre-probiotic
     - [x] El_Arbol_T5 --> post-probiotic
     - [x] Rocosa_T3--> pre-probiotic
     - [x]  Rocosa_T3--> post-probiotic
-    - [ ] Nirvana_T1--> pre-probiotic
-    - [ ] Nirvana_T1--> post-probiotic
+    - [x] PlazaDeToros_T4--> pre-probiotic
+    - [x] PlazaDeToros_T4--> post-probiotic
+    - [x] Nirvana--> pre-probiotic
+    - [x] Punta Padi--> pre-probiotic
 - [ ] Make folder of probiotic related images from Year 3 sites
-- [ ] Put corals into species folder after labelling 
+- [x] Put corals into species folder after labelling 
 - [x] Read protocol on SCTLD google drive
 - [x] Look at spreadsheet of coral names, tags and location
 - [x] Look at map of coral samples
 - [x] Revise coral id notes
+- [ ] Background check meeting for Outreach
