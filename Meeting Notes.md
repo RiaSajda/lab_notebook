@@ -39,9 +39,7 @@ Need to double check:
 - Put corals into species folder after labelling 
 - Label 062024 coral photos
   - Check in with Nikea before starting
-<<<<<<< Updated upstream
 - Final training extraction on 06/10
-=======
 - Final training extraction on 06/10
 - Get added to SAN_CORDAP repo 
   - Update spreadsheet based on coral extraction results
@@ -55,4 +53,3 @@ Need to double check:
 
 ### Nikea notes
 _let's keep a running list of the unresolved photo relabel issues and next time I chat with Felicia I will bring them up. during our meeting let's come up with your extraction plan for 012025 and 032026 Rocosa samples_
->>>>>>> Stashed changes

@@ -105,3 +105,4 @@ Incubate 75µL x # of samples of elution buffer -- > 300 µL
 - Sample 102025_COL_SAN_Protran1_571_PSTR formed 2 layers after inhibitor removal steps, there was a cloudy layer separating  the liquid. Pellet was also slightly disfigured. Sample was then split into 2, 102025_COL_SAN_Protran1_571_a_PSTR and 102025_COL_SAN_Protran1_571_b_PSTR
   - Sample 102025_COL_SAN_Protran1_571_a_PSTR was the liquid above the layer, which yielded DNA after Qubit
   - Sample 102025_COL_SAN_Protran1_571_b_PSTR was the liquid below the layer, for which the DNA range was too low after Qubit, implying lack of DNA presence in the sample 
+

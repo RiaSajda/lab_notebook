@@ -1,5 +1,7 @@
 
-# 10th July
+
+# 10th June
+
 
 ## Samples
 - 3 coral samples and 1 negative
@@ -23,6 +25,9 @@ Qubit tubes --> 6
 Incubate 75µL x # of samples of elution buffer -- > 300 µL
 
 - 012025_COL_SAN_T3_374_CNAT pellet during inhibitor removal was a bit deformed but no particles went into cryovial
+
+
+## 12th June
 
 ## Samples
 - 3 coral samples and 1 negative
