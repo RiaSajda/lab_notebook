@@ -39,6 +39,24 @@ Need to double check:
 - Put corals into species folder after labelling 
 - Label 062024 coral photos
   - Check in with Nikea before starting
+
+- Final training extraction on 06/10
+
 - Final training extraction on 06/10
 - Get added to SAN_CORDAP repo 
   - Update spreadsheet based on coral extraction results
+
+# 12th June 
+
+## Discuss: 
+- Images of OFAV_3, OFAV_51, OFAV_52, OFAV_57 and MCAV_46 are missing but samples were taken of those coral according to spreadsheets from T2
+- Samples spreadsheet shows repeat of sample DLAB_93 from T2
+- Read probiotic papers in July (8-17th)
+
+### Nikea notes
+_let's keep a running list of the unresolved photo relabel issues and next time I chat with Felicia I will bring them up. during our meeting let's come up with your extraction plan for 012025 and 032026 Rocosa samples_
+
+- Final training extraction on 06/10
+- Get added to SAN_CORDAP repo 
+  - Update spreadsheet based on coral extraction results
+
