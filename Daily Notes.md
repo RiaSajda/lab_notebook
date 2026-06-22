@@ -213,22 +213,22 @@ There is a note in the Columbia lab notebook stating tag was pulled out from OAN
 ## Daily To Do list
 - [x] Extract 6 samples (5 corals + 1 negative)
 - [x] Start unresolved images document 
-# 15th July
+# 15thJune
 - [x] Extract 6 samples (5 corals + 1 negative)
 - [x] Qubit samples
 
-# 16th July
+# 16th June
 - [x] Extract 6 samples (5 corals + 1 negative)
 - [x] Qubit samples
 
-# 17th July
+# 17th June
 - [x] Meeting with nikea
 - [x] Sort through and organise new coral sample set
 - [x] Finish unresolved images document
-# 18th July
+# 18th June
 - [x] Extract 6 samples (5 corals + 1 negative)
 - [x] Qubit samples
 
-# 22nd July
+# 22nd June
 - [x] Extract 6 samples (5 corals + 1 negative)
 - [x] Qubit samples
