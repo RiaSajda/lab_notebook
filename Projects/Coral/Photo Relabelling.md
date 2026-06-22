@@ -149,7 +149,7 @@
   - COL_SAN_T3_05100018 could be COL_SAN_T3_DLAB_34_032026_8
   - Sample 003 isnt on the spreadsheet but images of it are in the folder, labelled as COL_SAN_T3_ORBI_3_032026_1 - COL_SAN_T3_ORBI_3_032026_5
   - COL_SAN_T3_OANN_4_032026_6 could be miscellaneous 
-  - 
+
 ### Corals Labelled: Pre-probiotic treatment
 1. COL_SAN_T3_MCAV_16_032026
 2. COL_SAN_T3_MCAV_15_032026
@@ -189,9 +189,9 @@
 # 3rd June
 
 ## Notes: Rocosa_T3
-- COL_SAN_T3_P3120071 could be COL_SAN_T3_OFAV_9_032026_5, coral isnt visible but I think the balloon tagger belong to OFAV_9
-- COL_SAN_T3_P3120084.JPG could be COL_SAN_T3_OFAV_11_032026_6, coral isnt visible but I think the balloon tagger belong to OFAV_11
-- COL_SAN_T3_P3120105 doesn't have a specific coral tag shown, so its cureently labelled according to miscellaneous protocol 
+- COL_SAN_T3_P3120071 could be COL_SAN_T3_OFAV_9_032026_5, coral isn’t  visible but I think the balloon tagger belong to OFAV_9
+- COL_SAN_T3_P3120084.JPG could be COL_SAN_T3_OFAV_11_032026_6, coral isn’t  visible but I think the balloon tagger belong to OFAV_11
+- COL_SAN_T3_P3120105 doesn't have a specific coral tag shown, so its currently  labelled according to miscellaneous protocol 
 - OFAV_17 was recorded as a sample post treatment but there are no images of it pre treatment
 ### Corals Labelled: Pre-probiotic treatment
 1. COL_SAN_T3_MCAV_94_032026
@@ -315,7 +315,6 @@
 
 # 8th June
 ## Notes: Plaza_De_Toros_T4
-
 - COL_SAN_T4_05110144 could be COL_SAN_T4_OANN_42_032026, tag is seen but coral is covered by probiotic bag
   - Labelled as COL_SAN_T4_OANN_42_032026
 - P3103684-P3103689 tag is unclear and coral pointed to on map doesn't match the images. Could be some DLAB

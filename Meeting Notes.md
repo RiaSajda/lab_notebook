@@ -60,3 +60,13 @@ _let's keep a running list of the unresolved photo relabel issues and next time 
 - Get added to SAN_CORDAP repo 
   - Update spreadsheet based on coral extraction results
 
+## Notes:
+- Check total number of coral samples to be extracted and plan extraction batches accordingly
+- Update health status in colony sample data sheet (month and year for disease or mortality)
+
+# 17th June
+- Get a new batch coral samples to extract - 032026 Rocosa 
+- Sort and organise new sample set
+- Update on unresolved images document progress
+
+# 26th June

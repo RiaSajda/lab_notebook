@@ -1,4 +1,4 @@
-Date updated: 11th June
+Date updated: 17th June
 - [x] DNA lab extractions with Branae on Thursday at 10am
 - [x]  Read material on coral ID and make notes
 - [x] Edit and format notes for coral reef identification notes
@@ -25,10 +25,13 @@ Date updated: 11th June
     - [x] PlazaDeToros_T4--> post-probiotic
     - [x] Nirvana--> pre-probiotic
     - [x] Punta Padi--> pre-probiotic
-- [ ] Make folder of probiotic related images from Year 3 sites
 - [x] Put corals into species folder after labelling 
 - [x] Read protocol on SCTLD google drive
 - [x] Look at spreadsheet of coral names, tags and location
 - [x] Look at map of coral samples
 - [x] Revise coral id notes
-- [ ] Background check meeting for Outreach
+- [x] Background check meeting for Outreach
+- [x] Add health status to extraction tables
+- [ ] Extract coral samples from 012025 T3_Rocosa
+- [ ] Extract coral samples from 032026 T3_Rocosa
+- [x] Reorganise NARWHAL_R3_B41
