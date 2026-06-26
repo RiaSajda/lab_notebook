@@ -25,12 +25,14 @@ Coral ID Notes
 [[Flower Corals]]
 [[Important Coral Species]]
 [[Mound and Boulder Corals]]
-
+[[Protocol for Assessing Health Statuses of Corals]]
 
 ### Projects
 
 #### Coral
 - [[Photo Relabelling]]
+- [[Unresolved Images - Belize]]
+- [[Unresolved Images - ColumbiaCordap]]
 #### Molecular
 - [[DNA Extractions - Training]]
 - [[DNA Extractions]]

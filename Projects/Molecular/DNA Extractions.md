@@ -2,6 +2,7 @@
 T3_Rocosa samples from 032026 (1003-1057) in R9_B53
 T3_Rocosa samples from 032026 (989-1002) in R9_B54**
 
+**Centrifuge Combinations:**![[IMG_7496.jpg]]
 # 10th June
 
 ## Samples

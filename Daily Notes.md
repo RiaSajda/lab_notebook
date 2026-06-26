@@ -232,3 +232,14 @@ There is a note in the Columbia lab notebook stating tag was pulled out from OAN
 # 22nd June
 - [x] Extract 6 samples (5 corals + 1 negative)
 - [x] Qubit samples
+# 23rd June
+- [x] Go over Brandons paper that he will discuss in the lab meeting
+# 24th June
+- [x] Extract 6 samples (5 corals + 1 negative)
+- [x] Qubit samples
+# 25th June
+- [x] Relabel 15 photos from Belize_122024
+- [x] Set up for tomorrows extraction
+# 26th June
+- [x] DNA extraction for 6 samples + qubit
+- [x] Work on lab notebook 
