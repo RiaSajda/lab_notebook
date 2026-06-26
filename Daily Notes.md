@@ -198,3 +198,48 @@ There is a note in the Columbia lab notebook stating tag was pulled out from OAN
 - 012025_COL_SAN_T3_374_CNAT was a very large sample with a lot of tissue
 - 012025_COL_SAN_T3_375_OFAV was a small sample but had a decent amount of tissue
 - 012025_COL_SAN_T3_376_OFAV was a white/translucent sample and very small, not much tissue
+
+# 11th June
+## Daily To Do list
+- [x] Sort coral species into folders
+    - [x] Nirvana
+    - [x] Punta Padi
+    - [x] Rocosa
+    - [x] Plaza De Toros
+    - [x] El Arbol
+
+# 12th June
+
+## Daily To Do list
+- [x] Extract 6 samples (5 corals + 1 negative)
+- [x] Start unresolved images document 
+# 15thJune
+- [x] Extract 6 samples (5 corals + 1 negative)
+- [x] Qubit samples
+
+# 16th June
+- [x] Extract 6 samples (5 corals + 1 negative)
+- [x] Qubit samples
+
+# 17th June
+- [x] Meeting with nikea
+- [x] Sort through and organise new coral sample set
+- [x] Finish unresolved images document
+# 18th June
+- [x] Extract 6 samples (5 corals + 1 negative)
+- [x] Qubit samples
+# 22nd June
+- [x] Extract 6 samples (5 corals + 1 negative)
+- [x] Qubit samples
+# 23th June
+- [x] Go over Brandons paper that he will discuss in the lab meeting
+# 24th June
+- [x] Extract 6 samples (5 corals + 1 negative)
+- [x] Qubit samples
+# 25th June
+- [x] Relabel 15 photos from Belize_122024
+- [x] Set up for tomorrows extraction
+# 26th June
+- [x] Relabel 15 photos from Belize_122024
+- [x] Set up for tomorrows extraction
+

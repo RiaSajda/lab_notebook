@@ -30,8 +30,8 @@ Coral ID Notes
 ### Projects
 
 #### Coral
-- [[Photo Relabelling]]
 - [[CoralNet]]
+- [[Photo Labelling]]
 #### Molecular
 - [[DNA Extractions - Training]]
 - [[DNA Extractions]]

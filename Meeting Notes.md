@@ -52,4 +52,21 @@ Need to double check:
 - Read probiotic papers in July (8-17th)
 
 ### Nikea notes
+
 _let's keep a running list of the unresolved photo relabel issues and next time I chat with Felicia I will bring them up. during our meeting let's come up with your extraction plan for 012025 and 032026 Rocosa samples_
+
+- Final training extraction on 06/10
+- Get added to SAN_CORDAP repo 
+  - Update spreadsheet based on coral extraction results
+
+## Notes:
+- Check total number of coral samples to be extracted and plan extraction batches accordingly
+- Update health status in colony sample data sheet (month and year for disease or mortality)
+
+# 17th June
+- Get a new batch coral samples to extract - 032026 Rocosa 
+- Sort and organise new sample set
+- Update on unresolved images document progress
+
+# 26th June
+- Some images for belize 122024 are either mislabelled or not labelled

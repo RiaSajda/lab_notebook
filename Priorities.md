@@ -1,4 +1,4 @@
-Date updated: 11th June
+Date updated: 25th June
 - [x] DNA lab extractions with Branae on Thursday at 10am
 - [x]  Read material on coral ID and make notes
 - [x] Edit and format notes for coral reef identification notes
@@ -31,4 +31,7 @@ Date updated: 11th June
 - [x] Look at spreadsheet of coral names, tags and location
 - [x] Look at map of coral samples
 - [x] Revise coral id notes
-- [ ] Background check meeting for Outreach
+- [x] Background check meeting for Outreach
+- [ ] Label images from Belize_122024
+- [ ] DNA extraction for T3_012025
+- [ ] DNA extraction for T3_032026
