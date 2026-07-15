@@ -81,3 +81,7 @@ _let's keep a running list of the unresolved photo relabel issues and next time 
   - DSCN6498 
   - DSCN6499 
   - DSCN6500 
+
+# 10th July
+
+- Need to ask caroline about getting CHTR reagent and SLX-Mius buffer s kit is running low

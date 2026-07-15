@@ -203,20 +203,20 @@ Incubate 75µL x # of samples of elution buffer -- > 450 µL
 
 # 29th June
 ## Samples
-- 5 coral samples and 1 negative
+- 8 coral samples and 1 negative
 - From Omega Bio-tek box, opened 06/26
 
-| Sample                      | Species | Year   | Status                   | Starting_Weight | Date_Extracted | Raw_ng_ul     | Extracted_Location          | Notes          |
-| --------------------------- | ------- | ------ | ------------------------ | --------------- | -------------- | ------------- | --------------------------- | -------------- |
-| 012025_COL_SAN_T3_402_OFAV  | OFAV    | 012025 | Healthy                  |                 | 29/6/2026      |               | Top shelf of penguin fridge |                |
-| 012025_COL_SAN_T3_406_OFAV  | OFAV    | 012025 | Anti_D_treated24h_Margin |                 | 29/6/2026      |               | Top shelf of penguin fridge |                |
-| 012025_COL_SAN_T3_407_OFAV  | OFAV    | 012025 | Anti_D_treated24h_Tissue |                 | 29/6/2026      |               | Top shelf of penguin fridge |                |
-| 032026_COL_SAN_T3_1004_OANN | OANN    | 032026 | Diseased_Margin          |                 | 29/6/2026      |               | Top shelf of penguin fridge |                |
-| 032026_COL_SAN_T3_1006_OANN | OANN    | 032026 | Diseased_Margin          |                 | 29/6/2026      |               | Top shelf of penguin fridge |                |
-| 032026_COL_SAN_T3_1008_OFAV | OFAV    | 032026 | Pale                     |                 | 29/6/2026      |               | Top shelf of penguin fridge |                |
-| 032026_COL_SAN_T3_1044_OANN | OANN    | 032026 | Diseased_Tissue          |                 | 29/6/2026      |               | Top shelf of penguin fridge |                |
-| 032026_COL_SAN_T3_1056_OFAV | OFAV    | 032026 | Healthy                  |                 | 29/6/2026      |               | Top shelf of penguin fridge |                |
-| Negative                    | ------  | ------ | ---------                | ---------       | 29/6/2026      | Range too low | Top shelf of penguin fridge | no coral added |
+| Sample                      | Species | Year   | Status                   | Starting_Weight | Date_Extracted | Raw_ng_ul     | Extracted_Location          | Notes               |
+| --------------------------- | ------- | ------ | ------------------------ | --------------- | -------------- | ------------- | --------------------------- | ------------------- |
+| 012025_COL_SAN_T3_402_OFAV  | OFAV    | 012025 | Healthy                  | 98.3            | 29/6/2026      | 74.6          | Top shelf of penguin fridge |                     |
+| 012025_COL_SAN_T3_406_OFAV  | OFAV    | 012025 | Anti_D_treated24h_Margin | 73.1            | 29/6/2026      | 82.4          | Top shelf of penguin fridge |                     |
+| 012025_COL_SAN_T3_407_OFAV  | OFAV    | 012025 | Anti_D_treated24h_Tissue | 80.0            | 29/6/2026      | 66.4          | Top shelf of penguin fridge |                     |
+| 032026_COL_SAN_T3_1004_OANN | OANN    | 032026 | Diseased_Margin          | 20.2            | 29/6/2026      | 32.6          | Top shelf of penguin fridge | tiny sample         |
+| 032026_COL_SAN_T3_1006_OANN | OANN    | 032026 | Diseased_Margin          | 19.1            | 29/6/2026      | 26.0          | Top shelf of penguin fridge | tiny sample         |
+| 032026_COL_SAN_T3_1008_OFAV | OFAV    | 032026 | Pale                     | 141.2           | 29/6/2026      | 78.8          | Top shelf of penguin fridge | lot of skeleton     |
+| 032026_COL_SAN_T3_1044_OANN | OANN    | 032026 | Diseased_Tissue          | 58.6            | 29/6/2026      | 52.4          | Top shelf of penguin fridge | small sample        |
+| 032026_COL_SAN_T3_1056_OFAV | OFAV    | 032026 | Healthy                  | 240.5           | 29/6/2026      | 86.0          | Top shelf of penguin fridge | big sample+skeleton |
+| Negative                    | ------  | ------ | ---------                | ---------       | 29/6/2026      | Range too low | Top shelf of penguin fridge | no coral added      |
 ## Notes
 UV Sterilize 
 	- 2 x # of samples in 1.5 mL Lo-Bind Eppendorf tubes --> 18
@@ -228,4 +228,195 @@ UV Sterilize
 
 Qubit tubes --> 11
 Incubate 75µL x # of samples of elution buffer -- > 675 µL
+
+
+# 1st July
+## Samples
+- 9 coral samples and 1 negative
+- From Omega Bio-tek box, opened 06/26
+
+| Sample                      | Species | Year   | Status          | Starting_Weight | Date_Extracted | Raw_ng_ul     | Extracted_Location          | Notes          |
+| --------------------------- | ------- | ------ | --------------- | --------------- | -------------- | ------------- | --------------------------- | -------------- |
+| 032026_COL_SAN_T3_1005_OANN | OANN    | 032026 | Diseased_Tissue | 88.6            | 07_01_26       | 16.3          | Top shelf of penguin fridge |                |
+| 032026_COL_SAN_T3_1010_OFAV | OFAV    | 032026 | Diseased_Tissue | 111.0           | 07_01_26       | 75.6          | Top shelf of penguin fridge |                |
+| 032026_COL_SAN_T3_1011_OFAV | OFAV    | 032026 | Diseased_Margin | 30.7            | 07_01_26       | 21.8          | Top shelf of penguin fridge | tiny sample    |
+| 032026_COL_SAN_T3_1018_OFAV | OFAV    | 032026 | Diseased_Tissue | 114.9           | 07_01_26       | 39.4          | Top shelf of penguin fridge |                |
+| 032026_COL_SAN_T3_1019_OFAV | OFAV    | 032026 | Diseased_Margin | 42.9            | 07_01_26       | 18.2          | Top shelf of penguin fridge | tiny sample    |
+| 032026_COL_SAN_T3_1022_OFAV | OFAV    | 032026 | Diseased_Tissue | 150.0           | 07_01_26       | 79.6          | Top shelf of penguin fridge |                |
+| 032026_COL_SAN_T3_1031_OANN | OANN    | 032026 | Healthy         | 144.4           | 07_01_26       | 88.8          | Top shelf of penguin fridge |                |
+| 032026_COL_SAN_T3_1050_OFAV | OFAV    | 032026 | Healthy         | 190.9           | 07_01_26       | 92.2          | Top shelf of penguin fridge |                |
+| 032026_COL_SAN_T3_1053_OFAV | OFAV    | 032026 | Healthy         | 49.6            | 07_01_26       | 60.8          | Top shelf of penguin fridge | tiny sample    |
+| Negative                    | ------  | ------ | ------          | ---------       | 07_01_26       | Range too low | Top shelf of penguin fridge | no coral added |
+## Notes
+UV Sterilize 
+	- 2 x # of samples in 1.5 mL Lo-Bind Eppendorf tubes --> 20
+	- 1 x # of samples in 2 mL cryovials --> 10
+	- 1 x # of samples in Disruptor tubes --> 10
+	- 1 x # of samples in HiBind column plus collector tube --> 10
+	-  1.5 mL Eppendorf tubes (Elution buffer) --> 1
+	- Small Falcon Tube (Working solution) --> 1
+
+Qubit tubes --> 12
+Incubate 75µL x # of samples of elution buffer -- > 750 µL
+
+# 6th July
+## Samples
+- 13 coral samples and 1 negative
+- From Omega Bio-tek box, opened 06/26
+
+| Sample                      | Species | Year   | Status          | Starting_Weight | Date_Extracted | Raw_ng_ul      | Extracted_Location          | Notes            |
+| --------------------------- | ------- | ------ | --------------- | --------------- | -------------- | -------------- | --------------------------- | ---------------- |
+| 032026_COL_SAN_T3_1013_OFAV | OFAV    | 032026 | Diseased_Tissue | 133.9           | 07_06_26       | 74.8           | Top shelf of penguin fridge |                  |
+| 032026_COL_SAN_T3_1020_OFAV | OFAV    | 032026 | Diseased_Tissue | 208.3           | 07_06_26       | 54.8           | Top shelf of penguin fridge |                  |
+| 032026_COL_SAN_T3_1021_OFAV | OFAV    | 032026 | Diseased_Margin | 63.5            | 07_06_26       | 67.4           | Top shelf of penguin fridge |                  |
+| 032026_COL_SAN_T3_1026_OFAV | OFAV    | 032026 | Healthy         | 175.7           | 07_06_26       | 94.0           | Top shelf of penguin fridge |                  |
+| 032026_COL_SAN_T3_1029_OANN | OANN    | 032026 | Healthy         | 196.8           | 07_06_26       | 42.8           | Top shelf of penguin fridge |                  |
+| 032026_COL_SAN_T3_1030_OFAV | OFAV    | 032026 | Healthy         | 181.7           | 07_06_26       | Range too high | Top shelf of penguin fridge |                  |
+| 032026_COL_SAN_T3_1033_OFAV | OFAV    | 032026 | Healthy         | 139.6           | 07_06_26       | 94.4           | Top shelf of penguin fridge |                  |
+| 032026_COL_SAN_T3_1040_OFAV | OFAV    | 032026 | Diseased_Tissue | 39.6            | 07_06_26       | 21.6           | Top shelf of penguin fridge | almost no sample |
+| 032026_COL_SAN_T3_1041_OFAV | OFAV    | 032026 | Diseased_Tissue | 43.1            | 07_06_26       | 36.8           | Top shelf of penguin fridge | almost no sample |
+| 032026_COL_SAN_T3_1042_OFRA | OFRA    | 032026 | Diseased_Tissue | 255.0           | 07_06_26       | 58.6           | Top shelf of penguin fridge | lot of skeleton  |
+| 032026_COL_SAN_T3_1048_OFAV | OFAV    | 032026 | Healthy         | 230.0           | 07_06_26       | 90.2           | Top shelf of penguin fridge |                  |
+| 032026_COL_SAN_T3_1049_OANN | OANN    | 032026 | Healthy         | 121.8           | 07_06_26       | 27.6           | Top shelf of penguin fridge |                  |
+| 032026_COL_SAN_T3_1054_OFAV | OFAV    | 032026 | Healthy         | 189.2           | 07_06_26       | 98.4           | Top shelf of penguin fridge |                  |
+| Negative                    | ------  | ------ | ------          | ---------       | 07_06_26       | Range too low  | Top shelf of penguin fridge | no coral added   |
+## Notes
+UV Sterilize 
+	- 2 x # of samples in 1.5 mL Lo-Bind Eppendorf tubes --> 28
+	- 1 x # of samples in 2 mL cryovials --> 14
+	- 1 x # of samples in Disruptor tubes --> 14
+	- 1 x # of samples in HiBind column plus collector tube --> 14
+	-  1.5 mL Eppendorf tubes (Elution buffer) --> 1
+	- Small Falcon Tube (Working solution) --> 1
+
+Qubit tubes --> 16
+Incubate 75µL x # of samples of elution buffer -- > 1050 µL
+
+# 8th July
+## Samples
+- 11 coral samples and 1 negative
+- From Omega Bio-tek box, opened 06/26
+
+| Sample                      | Species | Year   | Status          | Starting_Weight | Date_Extracted | Raw_ng_ul     | Extracted_Location          | Notes          |
+| --------------------------- | ------- | ------ | --------------- | --------------- | -------------- | ------------- | --------------------------- | -------------- |
+| 032026_COL_SAN_T3_1003_OANN | OANN    | 032026 | Diseased_Tissue | 34.4            | 07_08_2026     | 10.7          | Top shelf of penguin fridge |                |
+| 032026_COL_SAN_T3_1007_OFAV | OFAV    | 032026 | Diseased_Tissue | 197.2           | 07_08_2026     | 68.6          | Top shelf of penguin fridge |                |
+| 032026_COL_SAN_T3_1012_OFAV | OFAV    | 032026 | Diseased_Tissue | 246.2           | 07_08_2026     | 44.4          | Top shelf of penguin fridge |                |
+| 032026_COL_SAN_T3_1017_OFAV | OFAV    | 032026 | Diseased_Margin | 70.4            | 07_08_2026     | 6.32          | Top shelf of penguin fridge |                |
+| 032026_COL_SAN_T3_1025_OFAV | OFAV    | 032026 | Healthy         | 162.5           | 07_08_2026     | 79.6          | Top shelf of penguin fridge |                |
+| 032026_COL_SAN_T3_1034_OANN | OANN    | 032026 | Healthy         | 214.7           | 07_08_2026     | 11.6          | Top shelf of penguin fridge |                |
+| 032026_COL_SAN_T3_1036_OFAV | OFAV    | 032026 | Healthy         | 129.6           | 07_08_2026     | 110           | Top shelf of penguin fridge |                |
+| 032026_COL_SAN_T3_1039_OFAV | OFAV    | 032026 | Diseased_Tissue | 88.5            | 07_08_2026     | 87.6          | Top shelf of penguin fridge |                |
+| 032026_COL_SAN_T3_1046_OFAV | OFAV    | 032026 | Diseased_Tissue | 32.5            | 07_08_2026     | 12.8          | Top shelf of penguin fridge |                |
+| 032026_COL_SAN_T3_1052_OANN | OANN    | 032026 | Healthy         | 67.5            | 07_08_2026     | 10.7          | Top shelf of penguin fridge |                |
+| 032026_COL_SAN_T3_1055_OANN | OANN    | 032026 | Healthy         | 130.7           | 07_08_2026     | 11.3          | Top shelf of penguin fridge |                |
+| Negative                    | ------  | ------ | ------          | ---------       | 07_08_26       | Range too low | Top shelf of penguin fridge | no coral added |
+## Notes
+UV Sterilize 
+	- 2 x # of samples in 1.5 mL Lo-Bind Eppendorf tubes -->24
+	- 1 x # of samples in 2 mL cryovials -->12
+	- 1 x # of samples in Disruptor tubes --> 12
+	- 1 x # of samples in HiBind column plus collector tube --> 12
+	-  1.5 mL Eppendorf tubes (Elution buffer) --> 1
+	- Small Falcon Tube (Working solution) --> 1
+
+Qubit tubes --> 14
+Incubate 75µL x # of samples of elution buffer -- > 900 µL
+# 10th July
+## Samples
+- 11 coral samples and 1 negative
+- From Omega Bio-tek box, opened 06/26
+
+| Sample                      | Species | Year   | Status          | Starting_Weight | Date_Extracted | Raw_ng_ul     | Extracted_Location          | Notes               |
+| --------------------------- | ------- | ------ | --------------- | --------------- | -------------- | ------------- | --------------------------- | ------------------- |
+| 032026_COL_SAN_T3_1009_OFAV | OAFV    | 032026 | Diseased_Margin | 50.6            | 07_10_26       | 2.22          | Top shelf of penguin fridge | almost all skeleton |
+| 032026_COL_SAN_T3_1014_OFAV | OAFV    | 032026 | Diseased_Margin | 103.7           | 07_10_26       | 99.2          | Top shelf of penguin fridge |                     |
+| 032026_COL_SAN_T3_1015_OFAV | OAFV    | 032026 | Diseased_Margin | 81.0            | 07_10_26       | 9.44          | Top shelf of penguin fridge | mostly skeleton     |
+| 032026_COL_SAN_T3_1016_OFAV | OAFV    | 032026 | Diseased_Tissue | 163.3           | 07_10_26       | 9.80          | Top shelf of penguin fridge |                     |
+| 032026_COL_SAN_T3_1023_OFAV | OAFV    | 032026 | Healthy         | 117.4           | 07_10_26       | 96.8          | Top shelf of penguin fridge |                     |
+| 032026_COL_SAN_T3_1027_OFAV | OAFV    | 032026 | Healthy         | 91.4            | 07_10_26       | 82.8          | Top shelf of penguin fridge |                     |
+| 032026_COL_SAN_T3_1028_OANN | OAFV    | 032026 | Healthy         | 126.0           | 07_10_26       | 14.5          | Top shelf of penguin fridge |                     |
+| 032026_COL_SAN_T3_1032_OFAV | OAFV    | 032026 | Healthy         | 169.4           | 07_10_26       | 97.8          | Top shelf of penguin fridge |                     |
+| 032026_COL_SAN_T3_1035_OFAV | OAFV    | 032026 | Healthy         | 137.8           | 07_10_26       | 81.6          | Top shelf of penguin fridge |                     |
+| 032026_COL_SAN_T3_1038_OFAV | OAFV    | 032026 | Diseased_Tissue | 77.3            | 07_10_26       | 82.2          | Top shelf of penguin fridge |                     |
+| 032026_COL_SAN_T3_1047_OFAV | OAFV    | 032026 | Healthy         | 128.6           | 07_10_26       | 24.8          | Top shelf of penguin fridge |                     |
+| Negative                    | ------  | ------ | ------          | ---------       | 07_10_26       | Range too low | Top shelf of penguin fridge | no coral added      |
+## Notes
+UV Sterilize 
+	- 2 x # of samples in 1.5 mL Lo-Bind Eppendorf tubes -->24
+	- 1 x # of samples in 2 mL cryovials -->12
+	- 1 x # of samples in Disruptor tubes --> 12
+	- 1 x # of samples in HiBind column plus collector tube --> 12
+	-  1.5 mL Eppendorf tubes (Elution buffer) --> 1
+	- Small Falcon Tube (Working solution) --> 1
+
+Qubit tubes --> 14
+Incubate 75µL x # of samples of elution buffer -- > 900 µL
+
+# 13th July
+## Samples
+- 13 coral samples and 1 negative
+- From Omega Bio-tek box, opened 06/26
+
+| Sample                      | Species | Year   | Status          | Starting_Weight | Date_Extracted | Raw_ng_ul     | Extracted_Location          | Notes            |
+| --------------------------- | ------- | ------ | --------------- | --------------- | -------------- | ------------- | --------------------------- | ---------------- |
+| 032026_COL_SAN_T3_1024_OFAV | OFAV    | 032026 | Healthy         | 144.7           | 07_13_26       | 94.4          | Top shelf of penguin fridge |                  |
+| 032026_COL_SAN_T3_1037_OANN | OFAV    | 032026 | Diseased_Tissue | 2.6             | 07_13_26       | 6.24          | Top shelf of penguin fridge | almost no sample |
+| 032026_COL_SAN_T3_1043_OFAV | OFAV    | 032026 | Diseased_Tissue | 94.2            | 07_13_26       | 33.2          | Top shelf of penguin fridge |                  |
+| 032026_COL_SAN_T3_1045_OFAV | OFAV    | 032026 | Diseased_Tissue | 93.5            | 07_13_26       | 32.8          | Top shelf of penguin fridge |                  |
+| 032026_COL_SAN_T3_1051_OANN | OANN    | 032026 | Healthy         | 156.2           | 07_13_26       | 83.0          | Top shelf of penguin fridge |                  |
+| 032026_COL_SAN_T3_1057_OFAV | OFAV    | 032026 | Healthy         | 110.3           | 07_13_26       | 94.8          | Top shelf of penguin fridge |                  |
+| 032026_COL_SAN_T3_983_MCAV  | MCAV    | 032026 | Healthy         | 106.7           | 07_13_26       | 96.4          | Top shelf of penguin fridge |                  |
+| 032026_COL_SAN_T3_984_MCAV  | MCAV    | 032026 | Healthy         | 94.9            | 07_13_26       | 112           | Top shelf of penguin fridge |                  |
+| 032026_COL_SAN_T3_990_DLAB  | DLAB    | 032026 | Healthy         | 138.8           | 07_13_26       | 66.0          | Top shelf of penguin fridge |                  |
+| 032026_COL_SAN_T3_991_CNAT  | CNAT    | 032026 | Healthy         | 327.3           | 07_13_26       | 17.9          | Top shelf of penguin fridge | lot of skeleton  |
+| 032026_COL_SAN_T3_993_DLAB  | DLAB    | 032026 | Healthy         | 209.8           | 07_13_26       | 44.0          | Top shelf of penguin fridge |                  |
+| 032026_COL_SAN_T3_995_DLAB  | DLAB    | 032026 | Healthy         | 226.9           | 07_13_26       | 39.0          | Top shelf of penguin fridge |                  |
+| 032026_COL_SAN_T3_1000_OANN | OANN    | 032026 | Diseased_Margin | 41.0            | 07_13_26       | 13.8          | Top shelf of penguin fridge | small sample     |
+| Negative                    | ------  | ------ | ------          | ---------       | 07_13_26       | Range too low | Top shelf of penguin fridge | no coral added   |
+## Notes
+UV Sterilize 
+	- 2 x # of samples in 1.5 mL Lo-Bind Eppendorf tubes -->24
+	- 1 x # of samples in 2 mL cryovials -->12
+	- 1 x # of samples in Disruptor tubes --> 12
+	- 1 x # of samples in HiBind column plus collector tube --> 12
+	-  1.5 mL Eppendorf tubes (Elution buffer) --> 1
+	- Small Falcon Tube (Working solution) --> 1
+
+Qubit tubes --> 14
+Incubate 75µL x # of samples of elution buffer -- > 900 µL
+
+
+# 15th July
+## Samples
+- 13 coral samples and 1 negative
+- From Omega Bio-tek box, opened 06/26
+
+| Sample                      | Species | Year   | Status | Starting_Weight | Date_Extracted | Raw_ng_ul     | Extracted_Location          | Notes          |
+| --------------------------- | ------- | ------ | ------ | --------------- | -------------- | ------------- | --------------------------- | -------------- |
+| 032026_COL_SAN_T3_985_MCAV  | MCAV    |        |        |                 | 07_15_26       |               | Top shelf of penguin fridge |                |
+| 032026_COL_SAN_T3_986_MCAV  | MCAV    |        |        |                 | 07_15_26       |               | Top shelf of penguin fridge |                |
+| 032026_COL_SAN_T3_987_MCAV  | MCAV    |        |        |                 | 07_15_26       |               | Top shelf of penguin fridge |                |
+| 032026_COL_SAN_T3_988_MCAV  | MCAV    |        |        |                 | 07_15_26       |               | Top shelf of penguin fridge |                |
+| 032026_COL_SAN_T3_989_MCAV  | MCAV    |        |        |                 | 07_15_26       |               | Top shelf of penguin fridge |                |
+| 032026_COL_SAN_T3_992_CNAT  | CNAT    |        |        |                 | 07_15_26       |               | Top shelf of penguin fridge |                |
+| 032026_COL_SAN_T3_994_DLAB  | DLAB    |        |        |                 | 07_15_26       |               | Top shelf of penguin fridge |                |
+| 032026_COL_SAN_T3_996_MCAV  | MCAV    |        |        |                 | 07_15_26       |               | Top shelf of penguin fridge |                |
+| 032026_COL_SAN_T3_997_MCAV  | MCAV    |        |        |                 | 07_15_26       |               | Top shelf of penguin fridge |                |
+| 032026_COL_SAN_T3_998_MCAV  | MCAV    |        |        |                 | 07_15_26       |               | Top shelf of penguin fridge |                |
+| 032026_COL_SAN_T3_999_OANN  | OANN    |        |        |                 | 07_15_26       |               | Top shelf of penguin fridge |                |
+| 032026_COL_SAN_T3_1001_OANN | OANN    |        |        |                 | 07_15_26       |               | Top shelf of penguin fridge |                |
+| 032026_COL_SAN_T3_1002_OANN | OANN    |        |        |                 | 07_15_26       |               | Top shelf of penguin fridge |                |
+| Negative                    | ------  | ------ | ------ | ---------       | 07_15_26       | Range too low | Top shelf of penguin fridge | no coral added |
+## Notes
+UV Sterilize 
+	- 2 x # of samples in 1.5 mL Lo-Bind Eppendorf tubes -->24
+	- 1 x # of samples in 2 mL cryovials -->12
+	- 1 x # of samples in Disruptor tubes --> 12
+	- 1 x # of samples in HiBind column plus collector tube --> 12
+	-  1.5 mL Eppendorf tubes (Elution buffer) --> 1
+	- Small Falcon Tube (Working solution) --> 1
+
+Qubit tubes --> 14
+Incubate 75µL x # of samples of elution buffer -- > 900 µL
 

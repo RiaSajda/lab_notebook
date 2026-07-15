@@ -243,3 +243,22 @@ There is a note in the Columbia lab notebook stating tag was pulled out from OAN
 # 26th June
 - [x] DNA extraction for 6 samples + qubit
 - [x] Work on lab notebook 
+
+# 29th June
+- [x] DNA extraction for 9 samples + qubit
+- [x] Work on lab notebook
+# 30th June
+- [x] Update healthy status on SAN_Cordap colony data spreadsheet
+- [x] Prepare for extraction tomorrow
+
+# 1st July
+- [x] DNA extraction for 10 samples + qubit
+
+# 6th July
+- [x] DNA extraction for 14 samples + qubit
+
+# 8th July
+- [x] DNA extraction for 11 samples + qubit
+
+# 10th July
+- [ ] DNA extraction for 11 samples + qubit
