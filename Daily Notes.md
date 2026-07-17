@@ -261,4 +261,16 @@ There is a note in the Columbia lab notebook stating tag was pulled out from OAN
 - [x] DNA extraction for 11 samples + qubit
 
 # 10th July
-- [ ] DNA extraction for 11 samples + qubit
+- [x] DNA extraction for 11 samples + qubit
+
+# 13th July
+- [x] DNA extraction for 13 samples + qubit
+
+# 15th July
+- [x] DNA extraction for 13 samples + qubit
+- [x] Add all qubit results to metagenomics tracker
+      create pull request and approve sams when he creates his
+
+# 17th July
+- [x] Update metagenomics tracker
+- [x] Fix format of dates on colony data spreadsheet (health status)

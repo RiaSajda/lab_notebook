@@ -1,4 +1,4 @@
-Date updated: 2nd July
+Date updated: 15th July
 - [x] DNA lab extractions with Branae on Thursday at 10am
 - [x]  Read material on coral ID and make notes
 - [x] Edit and format notes for coral reef identification notes
@@ -33,5 +33,5 @@ Date updated: 2nd July
 - [x] Background check meeting for Outreach
 - [x] Add health status to extraction tables
 - [x] Extract coral samples from 012025 T3_Rocosa
-- [ ] Extract coral samples from 032026 T3_Rocosa
+- [x] Extract coral samples from 032026 T3_Rocosa
 - [x] Reorganise NARWHAL_R3_B41

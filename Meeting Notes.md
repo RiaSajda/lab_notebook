@@ -85,3 +85,7 @@ _let's keep a running list of the unresolved photo relabel issues and next time 
 # 10th July
 
 - Need to ask caroline about getting CHTR reagent and SLX-Mius buffer s kit is running low
+
+# 17th July
+
+- Schedule meeting with nikea and sarah when semester starts about future tasks and responsibilities 
